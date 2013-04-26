@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euclidian3DSpace", "1-4.Euclidian3DSpace\Euclidian3DSpace.csproj", "{2246A263-78E2-44DF-8269-F05EFC11757D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{5D00209E-EC8C-4E90-8329-E28EECEAF614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixT", "MatrixT\MatrixT.csproj", "{42FC2B47-9F2D-4F60-A54B-CF378E307129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2246A263-78E2-44DF-8269-F05EFC11757D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2246A263-78E2-44DF-8269-F05EFC11757D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2246A263-78E2-44DF-8269-F05EFC11757D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2246A263-78E2-44DF-8269-F05EFC11757D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D00209E-EC8C-4E90-8329-E28EECEAF614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D00209E-EC8C-4E90-8329-E28EECEAF614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D00209E-EC8C-4E90-8329-E28EECEAF614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D00209E-EC8C-4E90-8329-E28EECEAF614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FC2B47-9F2D-4F60-A54B-CF378E307129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FC2B47-9F2D-4F60-A54B-CF378E307129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FC2B47-9F2D-4F60-A54B-CF378E307129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FC2B47-9F2D-4F60-A54B-CF378E307129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
